@@ -45,7 +45,7 @@ export default function HomePage() {
           <Image src="/gatito_mascota.png" alt="Mascota Gatito" width={80} height={80} className="rounded-full shadow-lg"/>
         </div>
       </header>
-      {/* Este es un comentario de prueba entre header y main */}
+      {/* El comentario problemático ha sido eliminado de esta versión */}
       <main className="test-main-class">
         <p className="text-lg text-gray-300 mb-12 text-center">
           Bienvenido/a a esta plataforma interactiva donde exploraremos los fascinantes conceptos de la probabilidad y la estadística,
