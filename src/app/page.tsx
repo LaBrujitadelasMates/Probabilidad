@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 // Definir metadatos
 export const metadata: Metadata = {
   title: 'La Bruja de las Mates® - Probabilidad y Estadística',
-  description: 'Página web interactiva sobre probabilidad y estadística para bachillerato.',
+  description: 'Página web interactiva sobre probabilidad y estadística para bachillerato y secundaria.',
   icons: {
     icon: '/logo1.svg',
   },
